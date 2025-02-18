@@ -27,6 +27,8 @@ Para saber se seu PHP é 32 bits (x86) ou 64 bits (x64), execute:
 Agora, escolha o arquivo correto para sua versão do PHP.
 
 	🔹 Detalhes importantes na escolha do arquivo:
+ 
+	php -i | findstr "Thread"
 
 	Versão do PHP (Ex: 8.1, 8.2...)
 	Arquitetura: x86 (32 bits) ou x64 (64 bits)
