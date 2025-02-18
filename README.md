@@ -39,6 +39,7 @@ Agora, escolha o arquivo correto para sua versão do PHP.
 
 Baixe o arquivo em:
 🔗 Download Imagick
+site: https://windows.php.net/downloads/pecl/releases/imagick/3.7.0/
 
 
 
